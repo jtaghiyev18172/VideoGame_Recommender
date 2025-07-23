@@ -4,7 +4,7 @@ This project implements a **Video Game Recommender System** using **Alternating 
 
 ---
 
-## 🚀 Features
+## Features
 - **Data Preprocessing**:
   - Filter only `play` actions.
   - Apply `log1p` transformation to normalize playtime.
@@ -25,4 +25,4 @@ This project implements a **Video Game Recommender System** using **Alternating 
 
 ---
 
-## 🗂 Project Structure
+
