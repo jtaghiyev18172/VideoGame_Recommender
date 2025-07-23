@@ -26,9 +26,10 @@ This project implements a **Video Game Recommender System** using **Alternating 
 ---
 ## Data cleaning
 - **The data before the log transformation**
+![Alt Text](image/before.png)
 
 
 
 - **The data after the log transformation**
-
+![Alt Text](image/after.png)
 
