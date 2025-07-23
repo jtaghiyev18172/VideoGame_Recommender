@@ -24,5 +24,11 @@ This project implements a **Video Game Recommender System** using **Alternating 
   - Filters out already played games.
 
 ---
+## Data cleaning
+- **The data before the log transformation**
+
+
+
+- **The data after the log transformation**
 
 
