@@ -1,8 +1,3 @@
-# VideoGame_Recommender
-This repository contains Machine Learning project. It is a recommender system that recommend a video game for a user based on this play time feature (implicit feedback).
-
-
-
 # 🎮 Video Game Recommender System (ALS Matrix Factorization)
 
 This project implements a **Video Game Recommender System** using **Alternating Least Squares (ALS)** for collaborative filtering. It is based on the [Steam-200K dataset](https://www.kaggle.com/datasets/tamber/steam-video-games), which includes user-game interaction data such as playtime. The system generates personalized game recommendations and evaluates performance using **RMSE** and **MAE**.
